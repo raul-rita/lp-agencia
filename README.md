@@ -13,12 +13,12 @@ Foram utilizadas no projeto as seguintes tecnologias e ferramentas:
 * bootstrap-icons
 
 <h2 id="link">Link para a visualização do site</h2>
- <a href="https://apathetic-scale.surge.sh/" target= _blank>Clique aqui!</a>
+ <a href="https://sturdy-flight.surge.sh/" target= _blank>Clique aqui!</a>
  
  <h2>Versão para Desktop</h2>
  
- ![screencapture-127-0-0-1-5500-2023-01-02-17_43_17](https://user-images.githubusercontent.com/93088559/210278569-774b0385-5b6a-42e9-aa1d-25fcfa6d3b68.png)
+ ![screencapture-127-0-0-1-5500-2023-01-10-15_05_58](https://user-images.githubusercontent.com/93088559/211629707-17cbf016-7bcf-44f6-8ae9-98fed0d8aacb.png)
+
+ <h2>Versão para Mobile</h2>
  
-  <h2>Versão para Mobile</h2>
- 
-![screencapture-127-0-0-1-5500-2023-01-02-17_43_56](https://user-images.githubusercontent.com/93088559/210278571-1996133f-c4f8-4cb0-ae36-4662a67b59ef.png)
+ ![screencapture-127-0-0-1-5500-2023-01-10-15_07_11](https://user-images.githubusercontent.com/93088559/211629723-7dea868d-fbda-4d43-a88f-da2f424e3740.png)
